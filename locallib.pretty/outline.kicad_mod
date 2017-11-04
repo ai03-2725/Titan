@@ -1,4 +1,4 @@
-(module outline (layer F.Cu) (tedit 59FD7176)
+(module outline (layer F.Cu) (tedit 59FD7279)
   (fp_text reference REF** (at 0 48.26) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -1402,4 +1402,6 @@
   (fp_line (start 73.342 -6.2755) (end 73.342 -7.2746) (layer Edge.Cuts) (width 0.1))
   (fp_line (start 73.342 -7.2746) (end 59.343 -7.2746) (layer Edge.Cuts) (width 0.1))
   (fp_line (start 78.393 -7.2746) (end 78.393 -6.2755) (layer Edge.Cuts) (width 0.1))
+  (pad 1 smd circle (at -5.08 -19.05) (size 1.524 1.524) (layers F.Cu))
+  (pad 2 smd circle (at 13.97 -19.05) (size 1.524 1.524) (layers B.Cu))
 )
